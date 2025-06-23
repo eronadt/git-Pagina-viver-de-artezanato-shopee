@@ -12,7 +12,7 @@ export const modules: Module[] = [
         title: 'Como criar conta Shopee',
         duration: '8:32',
         thumbnail: 'https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=800',
-        videoUrl: 'https://www.youtube.com/watch?v=dyVm8PAvU04',
+        videoUrl: 'https://www.youtube.com/watch?v=PbR82W8otf8',
         description: 'Passo a passo para criar sua conta de vendedor na Shopee'
       },
       {
