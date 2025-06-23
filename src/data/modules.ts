@@ -369,7 +369,7 @@ export const extraContent: Lesson[] = [
     title: 'Utilizar avaliações',
     duration: '15:33',
     thumbnail: 'https://images.pexels.com/photos/4348123/pexels-photo-4348123.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '',
+    videoUrl: 'https://www.youtube.com/watch?v=PbR82W8otf8',
     description: 'Como usar avaliações para aumentar vendas'
   }
 ];
